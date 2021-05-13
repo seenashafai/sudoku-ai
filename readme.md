@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-Author: ss3494\
+Author: Seena Shafai
 Date: 12/03/2021
 ### Introduction
 The code presented in the Jupyter notebook uses two AI techniques to solve any 9x9 sudoku given in the form of a 2D array. If the sudoku has no solution, the program returns a 9x9 matrix occupied with -1's; otherwise it returns the solved sudoku. 
